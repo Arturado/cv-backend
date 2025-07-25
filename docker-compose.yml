@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  nest-backend:
+    build: .
+    container_name: cv-nest-backend
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
