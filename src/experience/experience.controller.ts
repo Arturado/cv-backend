@@ -9,7 +9,7 @@ export class ExperienceController {
         company: 'Agencia XYZ',
         role: 'Desarrollador Full Stack',
         period: '2022 - 2024',
-        description: 'Desarrollo de plugins a medida para WordPress y sistemas de cotización para e-commerce.',
+        description: 'Desarrollos de plugins a medida para WordPress y sistemas de cotización para e-commerce.',
       },
       {
         company: 'Freelancer',

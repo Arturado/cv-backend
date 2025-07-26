@@ -7,7 +7,7 @@ export class AboutController {
     return {
       name: 'Arturo Vásquez',
       title: 'Full Stack Developer',
-      description: 'Desarrollador con experiencia en integración de sistemas, middleware, APIs y soluciones e-commerce.',
+      description: 'Desarrolladores con experiencia en integración de sistemas, middleware, APIs y soluciones e-commerce.',
       location: 'Chile',
     };
   }
