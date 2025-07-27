@@ -9,6 +9,7 @@ export class AboutController {
       title: 'Full Stack Developer',
       description: 'Desarrolladores con experiencia en integración de sistemas, middleware, APIs y soluciones e-commerce.',
       location: 'Chile',
+      languajes: 'Ingles - Espñaol',
     };
   }
 }
